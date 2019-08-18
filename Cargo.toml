@@ -1,0 +1,8 @@
+[package]
+name = "address-validator"
+version = "0.1.0"
+authors = ["Amy Jie <git.xvrqt.com>"]
+edition = "2018"
+
+[dependencies]
+
